@@ -14,6 +14,11 @@ npm run serve
 ```
 npm run build
 ```
+### Visit deployed project on Netlify
+```
+https://covid19tracker-qm.netlify.app/
+```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
